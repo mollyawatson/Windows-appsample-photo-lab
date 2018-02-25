@@ -85,6 +85,8 @@ namespace PhotoLab
                     Images.Add(await LoadImageInfo(file));
                 }
             }
+
+            ImageGridView.ItemsSource = Images;
         }
 
        public async static Task<ImageFileInfo> LoadImageInfo(StorageFile file)

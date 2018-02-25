@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.8
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoLab", "PhotoLab\PhotoLab.csproj", "{95D9D016-79D5-451B-856E-C1F20FDAE91F}"
 EndProject
@@ -20,9 +20,9 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|ARM.ActiveCfg = Debug|ARM
-		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|ARM.Build.0 = Debug|ARM
-		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|ARM.ActiveCfg = Debug|x64
+		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|ARM.Build.0 = Debug|x64
+		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|ARM.Deploy.0 = Debug|x64
 		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|x64.ActiveCfg = Debug|x64
 		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|x64.Build.0 = Debug|x64
 		{95D9D016-79D5-451B-856E-C1F20FDAE91F}.Debug|x64.Deploy.0 = Debug|x64
